@@ -1,0 +1,9 @@
+{
+  "task": "APTOS five-grade image-plus-lesion fusion",
+  "train_count": 2562,
+  "validation_count": 550,
+  "reserved_test_count": 550,
+  "best_validation_qwk": 0.9127821652086038,
+  "checkpoint": "models/aptos_grade5_fusion_best.pt",
+  "test_evaluated": false
+}

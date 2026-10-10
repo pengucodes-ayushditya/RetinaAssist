@@ -1,0 +1,9 @@
+{
+  "task": "APTOS five-grade classification",
+  "train_count": 2562,
+  "validation_count": 550,
+  "reserved_test_count": 550,
+  "best_validation_qwk": 0.9114390607242363,
+  "checkpoint": "models/aptos_grade5_best.pt",
+  "test_evaluated": false
+}
